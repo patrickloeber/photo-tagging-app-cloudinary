@@ -27,7 +27,7 @@ The file `cloudinary_service.py` contains helper functions to upload, tag, and s
 
 Prepare a folder with all the photos you want to upload, and then call the `upload_folder()`function inside the `cloudinary_service.py` to upload and tag all images.
 
-## Run
+## Run the app
 
 Start the app with
 
